@@ -1,6 +1,6 @@
 module github.com/symflower/eval-dev-quality
 
-go 1.21.5
+go 1.25.0
 
 require (
 	github.com/avast/retry-go v3.0.0+incompatible
@@ -28,9 +28,9 @@ require (
 	github.com/schollz/progressbar/v3 v3.14.2 // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/termie/go-shutil v0.0.0-20140729215957-bcacb06fecae // indirect
-	github.com/ulikunitz/xz v0.5.11 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	github.com/yuin/goldmark v1.7.0 // indirect
-	golang.org/x/image v0.11.0 // indirect
+	golang.org/x/image v0.41.0 // indirect
 	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/term v0.18.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
